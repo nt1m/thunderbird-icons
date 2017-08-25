@@ -1,0 +1,11 @@
+#!/bin/bash
+
+for svg in `ls **/*.svg`
+do
+
+# format the file with svgo
+svgo $svg --pretty --indent=2
+
+# append our Mozilla license to the beginning of the file
+cat /usr/local/bin/header.txt | cat - $svg > temp && mv temp $svg
+done

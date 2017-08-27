@@ -209,3 +209,4 @@ function updateDownloadUrl() {
   download.dataset.path = selectedIcon.dataset.path;
 }
 
+function ga() {}

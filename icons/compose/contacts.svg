@@ -3,7 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
   <title>
-    Artboard 2
+    Artboard 2 Copy 12
   </title>
-  <path d="M5.244 7h1.512L6 4.48 5.244 7zm-.6 2l-.686 2.287a1 1 0 0 1-1.916-.574l3-10c.285-.95 1.63-.95 1.916 0l3 10a1 1 0 0 1-1.916.574L7.356 9H4.644zm4.21 4.146l1.547 1.548 2.67-4.451a.5.5 0 0 1 .858.514l-3 5a.5.5 0 0 1-.783.097l-2-2a.5.5 0 0 1 .708-.708z"/>
+  <g stroke="#000" stroke-width="2" fill="none" fill-rule="evenodd">
+    <circle cx="8" cy="5" r="3"/>
+    <path d="M2.083 14h11.834a6.002 6.002 0 0 0-11.834 0z"/>
+  </g>
 </svg>

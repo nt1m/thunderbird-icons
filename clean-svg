@@ -1,0 +1,11 @@
+#!/bin/bash
+
+for svg in `ls icons/**/*.svg`
+do
+
+# format the file with svgo
+svgo $svg --pretty --indent=2 --enable=removeTitle,sortAttrs,removeViewBox,removeUselessStrokeAndFill
+
+# append our Mozilla license to the beginning of the file
+cat ./header.txt | cat - $svg > temp && mv temp $svg
+done

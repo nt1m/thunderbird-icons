@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 18 18">
-  <path id="tag" class="normal" d="M 4 2.5 C 3.3 2.5 2.5 3.3 2.5 4 L 2.5 8 L 10 15.5 L 15.5 10 L 8 2.5 L 4 2.5 z M 6 4 A 2 2 0 0 1 8 6 A 2 2 0 0 1 6 8 A 2 2 0 0 1 4 6 A 2 2 0 0 1 6 4 z"/>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+  <path class="normal" d="M4 2.5c-.7 0-1.5.8-1.5 1.5v4l7.5 7.5 5.5-5.5L8 2.5H4zM6 4a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z"/>
 </svg>

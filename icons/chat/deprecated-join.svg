@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 18 18">
-  <path id="join" class="normal" d="m 7.5,6.5 8,0 c 0.5,0 1,0.5 1,1 l 0,4 c 0,0.5 -0.5,1 -1,1 l -5,0 -2,4 0,-4 -1,0 c -0.5,0 -1,-0.5 -1,-1 l 0,-4 c 0,-0.5 0.5,-1 1,-1 z m -5,-4 9,0 c 0.5,0 1,0.5 1,1 l 0,1 -6,0 c -1,0 -2,1 -2,2 l 0,3.5 -1,2.5 0,-4 -1,0 c -0.5,0 -1,-0.5 -1,-1 l 0,-4 c 0,-0.5 0.5,-1 1,-1 z"/>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+  <path class="normal" d="M7.5 6.5h8c.5 0 1 .5 1 1v4c0 .5-.5 1-1 1h-5l-2 4v-4h-1c-.5 0-1-.5-1-1v-4c0-.5.5-1 1-1zm-5-4h9c.5 0 1 .5 1 1v1h-6c-1 0-2 1-2 2V10l-1 2.5v-4h-1c-.5 0-1-.5-1-1v-4c0-.5.5-1 1-1z"/>
 </svg>

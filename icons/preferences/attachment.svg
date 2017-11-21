@@ -1,12 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
-    <title>Artboard 4 Copy</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard-4-Copy" fill="#000000">
-            <path d="M12,12 L12,3.5 C12,3.22385763 11.7761424,3 11.5,3 C11.2238576,3 11,3.22385763 11,3.5 L11,12 L12,12 Z M7,5.5 L7,11 L6,11 L6,5.5 C6,5.22385763 6.22385763,5 6.5,5 C6.77614237,5 7,5.22385763 7,5.5 Z M4,3 C4,1.34314575 5.34314575,0 7,0 C8.65685425,0 10,1.34314575 10,3 L10,11 L9,11 L9,4 L5,4 L5,12 L4,12 L4,3 Z M7,11 C7,11.5522847 7.44771525,12 8,12 C8.55228475,12 9,11.5522847 9,11 L10,11 C10,12.1045695 9.1045695,13 8,13 C6.8954305,13 6,12.1045695 6,11 L7,11 Z M5,12 C5,13.6568542 6.34314575,15 8,15 C9.65685425,15 11,13.6568542 11,12 L12,12 C12,14.209139 10.209139,16 8,16 C5.790861,16 4,14.209139 4,12 L5,12 Z M5,3 L5,4 L9,4 L9,3 L5,3 Z M9,3 C9,1.8954305 8.1045695,1 7,1 C5.8954305,1 5,1.8954305 5,3 L9,3 Z" id="Combined-Shape"></path>
-        </g>
-    </g>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+  <path d="M12 12V3.5a.5.5 0 1 0-1 0V12h1zM7 5.5V11H6V5.5a.5.5 0 0 1 1 0zM4 3a3 3 0 1 1 6 0v8H9V4H5v8H4V3zm3 8a1 1 0 0 0 2 0h1a2 2 0 1 1-4 0h1zm-2 1a3 3 0 0 0 6 0h1a4 4 0 1 1-8 0h1zm0-9v1h4V3H5zm4 0a2 2 0 1 0-4 0h4z" fill="#000" fill-rule="evenodd"/>
 </svg>

@@ -181,6 +181,11 @@ function updatePreview() {
     let icon = document.querySelector('#icon-details .preview .icon');
     icon.innerHTML = data;
 
+    let svg = icon.querySelector("svg");
+    if (!svg.hasAttribute("viewBox")) {
+      svg.setAttribute("viewBox", "0 0 16 16");
+    }
+
     let fills = ['context-fill', 'light', 'dark'];
     let selected = document.querySelector("input[name='fill']:checked");
     if (fills.includes(selected.id)) {

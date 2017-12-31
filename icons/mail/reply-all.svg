@@ -1,11 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
-  <g stroke-width="2" fill="none" fill-rule="evenodd" stroke-linecap="round">
-    <path d="M10 13c2.667-2.667 3.667-4.667 3-6-.667-1.333-3.333-2-8-2" stroke="#000" stroke-linejoin="round"/>
-    <path stroke="#000" d="M5 2L2.5 5 5 8"/>
-    <path stroke="#FFF" d="M6 2L3.5 5 6 8"/>
-    <path stroke="#000" d="M7 2L4.5 5 7 8"/>
-  </g>
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" fill="context-fill" fill-opacity="context-fill-opacity">
+  <path d="M6.663 6.033L7.768 7.36a1 1 0 1 1-1.536 1.28L3.198 5l3.034-3.64a1 1 0 0 1 1.536 1.28L6.612 4.028c4.068.15 6.474.909 7.282 2.525.933 1.864-.237 4.204-3.187 7.154a1 1 0 1 1-1.414-1.414c2.384-2.384 3.214-4.044 2.813-4.846-.366-.73-2.2-1.277-5.443-1.414zM5.5 1.133a.998.998 0 0 0-.268.227L2.198 5l3.034 3.64a.998.998 0 0 0 .268.226 1 1 0 0 1-1.268-.226L1.198 5l3.034-3.64A1 1 0 0 1 5.5 1.134z"/>
 </svg>

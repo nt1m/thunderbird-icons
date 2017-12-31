@@ -1,10 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
-  <g fill="none" fill-rule="evenodd">
-    <path d="M.5 7.5h4m6 0h4m-7 3v4m0-14v4" stroke="#000" stroke-linecap="round"/>
-    <circle fill="#000" cx="7.5" cy="7.5" r="1"/>
-    <path d="M3.5 5.5l2 2m6-2l-2 2m0-4l-2 2m-2-2l2 2m0 4l2 2m-2-2l-2 2m0-4l-2 2m8 0l-2-2" stroke="#000" stroke-linecap="round"/>
-  </g>
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" fill="context-fill" fill-opacity="context-fill-opacity">
+  <path d="M.5 8a.5.5 0 0 1 0-1h4a.5.5 0 0 1 0 1h-4zm10 0a.5.5 0 1 1 0-1h4a.5.5 0 1 1 0 1h-4zM7 10.5a.5.5 0 1 1 1 0v4a.5.5 0 1 1-1 0v-4zm3.207-3l1.647 1.646a.5.5 0 0 1-.708.708l-2-2a.5.5 0 0 1 0-.708l2-2a.5.5 0 0 1 .708.708L10.207 7.5zm-4.353.354l-2 2a.5.5 0 0 1-.708-.708L4.793 7.5 3.146 5.854a.5.5 0 1 1 .708-.708l2 2a.5.5 0 0 1 0 .708zm1.292 1.292a.5.5 0 0 1 .708 0l2 2a.5.5 0 0 1-.708.708L7.5 10.207l-1.646 1.647a.5.5 0 0 1-.708-.708l2-2zM8 4.293l1.146-1.147a.5.5 0 1 1 .708.708l-2 2a.498.498 0 0 1-.708 0l-2-2a.5.5 0 1 1 .708-.708L7 4.293V.5a.5.5 0 0 1 1 0v3.793zM7.5 8.5a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"/>
 </svg>
